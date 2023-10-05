@@ -1,0 +1,132 @@
+ul.navbar-nav > li.nav-item > a.nav-link{
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 8px #000000;
+    color: orange;
+    font-weight: bolder;
+    font-family: 'Raleway', sans-serif;
+    height: 40px;
+}
+ul.navbar-nav > li.nav-item > a.nav-link:hover{
+    color: #a3a2a2;
+}
+.dropdown-item{
+    color: #1f2124;
+    top: 2px;
+}
+
+
+.dropdown-item:hover{
+    background-color: #b6c437a1;
+    padding: 9px 25px;
+    transition: all 0.4s ease 0s;
+    border-radius: 15px 30px;
+ }
+ .dropdown{
+    width: min-content;
+    
+ }
+ul.justify-content-left > li.nav-item > a.nav-link{ 
+    border-radius: none;
+    cursor: pointer;
+    transition: all 0.4s ease 0s;
+    text-shadow: 4px 5px 8px #000000;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #3b75ac;
+    list-style-type: none;
+    display: inline;   
+}
+span.navbar-toggler-icon:hover{
+    color: #115696;
+}
+button.navbar-toggler:hover{
+color: #65717c;
+}
+button.navbar-toggler{
+    background-color: #43698b;
+}
+div.container-fluid{
+    position:relative;
+}
+div.home-text{
+    padding: 420px 5%;
+    position: fixed;
+    left: 200px;
+
+}
+.home-text h2{
+    margin: 20px 0px 20px;
+    font-size: 80px;
+    text-shadow: #0c0d0e;
+    color: #115696;
+ }
+ .home-text h4{
+    font-size: 40px;
+    color: #3e6488;
+ }
+ .home-text h3{
+    padding: 10px 3px;
+    color: #43698b;
+    font-size: 40px;
+ }
+
+ .newslatter form{
+    width: 380px;
+    max-width: 100%;
+    position: relative;
+ }
+ .newslatter form input:first-child{
+    display: inline-block;
+    width: 100%;
+    outline: none;
+    padding: 16px 140px 16px 15px;
+    border: 2px solid;
+    border-radius: 30px;
+ }
+ .newslatter form input:last-child{
+    position: absolute;
+    display: inline-block;
+    outline: none;
+    border: none;
+    border-radius: 28px;
+    background: rgb(148, 174, 207);
+    padding: 15px 30px;
+    transition: all 0.4s ease 0s;
+    box-shadow: 0px 0px 6px #000,  0px 0px 14px #868686;
+    cursor: pointer;
+    top: 3px;
+    right: 1px;
+    color: #115696;
+
+ }
+ 
+ .newslatter form input:last-child:hover{
+    background-color: #a4aaaf;
+     }
+
+
+  
+  
+  
+  
+  
+
+      
+
+ 
+
+
+
+
+
+ 
+
+
+
+    
+
+
+
+    
+
